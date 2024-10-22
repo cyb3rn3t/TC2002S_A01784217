@@ -1,6 +1,7 @@
 from openai import OpenAI
 
-secret_key=""
+#{ "model": "gpt-3.5-turbo", "prompt": "give me a summary of the first shrek movie (2001)", "max_tokens": 100, "temperature": 1 }
+secret_key = ""
 
 prompt = "give me a summary of the first shrek movie (2001)"
 
